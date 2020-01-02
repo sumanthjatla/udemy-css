@@ -1,0 +1,130 @@
+/*body{
+    background-color: gold;
+}*/
+.top-container{
+text-align: center;
+width: 100%;
+height: 690px;
+background-color: #bae1fa;
+}
+.top-container h3{
+    font-size: 2.5rem;
+}
+.middle-container{
+    text-align: center;
+    background-color: #f4b0c7;
+}
+.profile p{
+    color: rgb(85, 27, 27);
+}
+.skill-row p{
+    color: rgb(85, 27, 27);
+}
+.bottom-container{
+    text-align: center;
+    background-color: #413c69;
+}
+.contact-me p{
+    color:rgb(85, 27, 27);
+}
+.contact-me a{
+    color: #ad62aa;
+}
+. a :hover{
+    color: whitesmoke;
+}
+.btn a :active{
+    color: skyblue;
+}
+.bottom-container :hover{
+    color: #ad62aa;
+}
+.bottom-container a,p{
+    color: #faf0f4;
+}
+.bottom-container a :active{
+    color: skyblue;
+}
+.imgsizeboy{
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+}
+.imgsize{
+    width: 200px;
+    height: 200px;
+}
+.skill-row1{
+    width: 200px;
+    height: 200px;
+}
+.cloud1{
+    position: relative;
+    top: 300px;
+    right: 450px;
+}
+.mountain{
+    position: relative;
+    top: 5%;
+}
+.cloud2{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+span{
+    text-decoration: underline;
+    color: orange;
+}
+.box0{
+    width: 200px;
+    height: 200px;
+    background-color: #11e0a2;
+    margin: 0px 0px 0px 0px;
+    border: solid 5px;
+}
+body{
+    margin:0px;
+}
+h1{
+    font-size: 5.625rem;
+    color: rgb(184, 32, 32);
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    color: indianred;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Acme', sans-serif;
+}
+h3{
+    font-size: 1.7rem;
+    margin-top: 0px;
+    color: rgb(218, 32, 32);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Acme', sans-serif;
+}
+.box1{
+    margin-left: 210px;
+    background-color: yellow ;
+    color: rgb(209, 18, 18);
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+}
+.box2{
+    margin-left: 430px;
+    color: silver ;
+    width: 200px;
+    height: 200px;
+    border: solid 4px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: gold;
+}
+.x1{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: absolute;
+    display: block;
+
+
+}
+.x2{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    right:700px ;
+    display: block;
+}
+.x3{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    right: 500px;
+    display: block;
+}

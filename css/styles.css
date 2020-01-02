@@ -20,6 +20,19 @@ background-color: #bae1fa;
 .skill-row p{
     color: rgb(85, 27, 27);
 }
+.skill-row2 p{
+    color: rgb(85, 27, 27);
+}
+.skill-row{
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: left;
+}
+.skill-row2{
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: left;
+}
 .bottom-container{
     text-align: center;
     background-color: #413c69;
@@ -51,8 +64,16 @@ background-color: #bae1fa;
     height: 200px;
 }
 .imgsize{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right:30px ;
+}
+.imgsize1{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
 }
 .skill-row1{
     width: 200px;
